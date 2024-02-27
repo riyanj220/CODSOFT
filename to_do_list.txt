@@ -1,0 +1,9 @@
+Name: holiday
+Time			Task
+6:00				wake up
+7.30				breakfast
+8				work
+11-12 pm				exercise
+12:45 -1:00				meal
+7pm- 8pm				office work
+11pm				sleep
